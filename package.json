@@ -1,0 +1,24 @@
+{
+  "name": "spa-js",
+  "version": "1.0.0",
+  "description": "An SPA in Vanilla JS and some ExpressJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    ".": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jean-OIKONOMOU/SPA_VanillaJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jean-OIKONOMOU/SPA_VanillaJS/issues"
+  },
+  "homepage": "https://github.com/Jean-OIKONOMOU/SPA_VanillaJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
